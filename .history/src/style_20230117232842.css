@@ -11,5 +11,7 @@ body {
 }
 
 #app {
-  @apply max-w-5xl mx-auto p-4;
+  @apply max-w-5xl
+  margin: 0 auto;
+  padding: 1rem;
 }

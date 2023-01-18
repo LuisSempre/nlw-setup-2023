@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import TrackerHeader from "./components/Tracker/TrackerHeader.vue";
+import { TrackerHeader } from "./components/TrackerHeader";
 </script>
 
 <template>
   <div class="flex flex-col">
-    <tracker-header />
+    <TrackerHeader />
   </div>
 </template>

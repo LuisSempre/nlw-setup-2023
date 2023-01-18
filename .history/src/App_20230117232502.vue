@@ -1,4 +1,5 @@
-<script setup lang="ts">
+<script setup la
+  components: { TrackerHeader },ng="ts">
 import TrackerHeader from "./components/Tracker/TrackerHeader.vue";
 </script>
 
